@@ -129,23 +129,6 @@ To automate it on a schedule, replace the Manual Trigger with a Schedule Trigger
 
 ## Part of the *Building with Agentic AI* Series
 
-This workflow is the practical example from **Week 2: What Is an Agentic System, Actually?**
-
-| Week | Topic |
-|---|---|
-| 1 | How to Pick the Right Problem for AI Agents |
-| **2** | **What Is an Agentic System, Actually? ← you are here** |
-| 3 | The Anatomy of an Agent: Tools, Memory, Planning, and Action Loops |
-| 4 | When to Use Agents vs. Simple LLM Calls |
-| 5 | Practical Tool Design |
-| 6 | How Memory Works in Agents |
-| 7 | Failure Modes and How to Handle Them |
-| 8 | Human-in-the-Loop Design |
-| 9 | How to Evaluate and Monitor Agents in Production |
-| 10 | Pricing and GTM for Agentic Products |
-
-Follow along on [Medium](#) and [LinkedIn](#).
-
 ---
 
 ## License
