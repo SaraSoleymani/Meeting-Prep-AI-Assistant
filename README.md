@@ -125,9 +125,6 @@ To automate it on a schedule, replace the Manual Trigger with a Schedule Trigger
 | **Memory** | Stateless per run — each row is processed independently. Status column acts as a simple processed/unprocessed flag. |
 | **Guardrails** | Agent instructed to say so rather than guess if context is missing. Brief capped at 250 words. Structured output format enforced via system prompt. |
 
----
-
-## Part of the *Building with Agentic AI* Series
 
 ---
 
